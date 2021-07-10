@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730527284015",
+    "project_id": "goodboy-delivery",
+    "storage_bucket": "goodboy-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730527284015:android:95ca8f764746a52241bfda",
+        "android_client_info": {
+          "package_name": "kitchen.goodboy.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730527284015-im95ksrtkndj7vhcfld71lvqbmrab436.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kitchen.goodboy.delivery",
+            "certificate_hash": "73605edc07622a1781e020d73a130ac6cb816232"
+          }
+        },
+        {
+          "client_id": "730527284015-pum998pp2578jurv4jehu6dtkohi8lkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtXmAptQHZ3a8GyE6zZ1BFEIR41v_EBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730527284015-pum998pp2578jurv4jehu6dtkohi8lkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
